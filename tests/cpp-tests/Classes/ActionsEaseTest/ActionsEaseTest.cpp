@@ -74,7 +74,7 @@ void EaseSpriteDemo::centerSprites(unsigned int numberOfSprites)
 
 //------------------------------------------------------------------
 //
-// SpriteEase
+// SpriteEase created by MrGan
 //
 //------------------------------------------------------------------
 
